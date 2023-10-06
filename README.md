@@ -1,4 +1,4 @@
-### Hi, I'm Dongning :smile: Welcome to my GitHub! 
+
 
 <!--
 **mathdsong/mathdsong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,11 +25,17 @@
 Here are some ideas to get you started:
 -->
 
-### My Statistics
+# Hi, I'm Dongning :smile: Welcome to my GitHub! 
+
+<h2 align="center">About Me</h2>
+<h2 align="center">Techs I Use</h2>
+<h2 align="center">My Github Statistics</h2>
 <p align="center">
   <a href="https://github.com/mathdsong">
     <img height="180" alt="last year" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mathdsong&theme=gotham" />
     <img height="180" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathdsong&layout=pie&theme=gotham" />
   </a>
 </p>
+<h2 align="center">Connect with Me</h2>
+
 
