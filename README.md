@@ -25,7 +25,7 @@
 Here are some ideas to get you started:
 -->
 
-# Hi, I'm Dongning :smile: Welcome to my GitHub! 
+# Hi, I'm Dongning :smile: Welcome to My GitHub! 
 
 <h2 align="center">About Me</h2>
 <h2 align="center">Techs I Use</h2>
