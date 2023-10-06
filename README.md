@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 ### My Statistics
 <p align="center">
   <a href="https://github.com/mathdsong">
-    <img height="100" alt="last year" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mathdsong&theme=gotham" />
-    <img height="100" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathdsong&layout=pie&theme=gotham" />
+    <img height="180" alt="last year" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mathdsong&theme=gotham" />
+    <img height="180" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathdsong&layout=pie&theme=gotham" />
   </a>
 </p>
 
