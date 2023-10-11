@@ -27,15 +27,21 @@ Here are some ideas to get you started:
 
 # Hi, I'm Dongning :smile: Welcome to My GitHub! 
 
-<h2 align="center">About Me</h2>
-<h2 align="center">Techs I Use</h2>
-<h2 align="center">My Github Statistics</h2>
-<p align="center">
+<h2 align="left">About Me</h2>
+<h2 align="left">Techs I Use</h2>
+<h2 align="left">My Github Statistics</h2>
+<p align="left">
   <a href="https://github.com/mathdsong">
-    <img height="180" alt="last year" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mathdsong&theme=gotham" />
-    <img height="180" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathdsong&layout=pie&theme=gotham" />
+    <img height="180em" alt="last year" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mathdsong&theme=gotham" />
+    <img height="180em" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathdsong&layout=pie&theme=gotham" />
+    <img alt="Strek Stats" height="180" src="https://streak-stats.demolab.com/?user=mathdsong&theme=gotham" />
   </a>
 </p>
-<h2 align="center">Connect with Me</h2>
+
+<h2 align="left">Connect with Me</h2>
+<p align="left">
+  <a href="https://www.linkedin.com/in/dongningsong/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:dongningsongswe@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 
