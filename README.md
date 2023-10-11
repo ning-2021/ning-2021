@@ -2,16 +2,6 @@
 
 <!--
 **mathdsong/mathdsong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 <p align="center">
   <a href="https://github.com/mathdsong">
     <img alt="Strek Stats" height="260" src="https://streak-stats.demolab.com/?user=mathdsong&theme=gotham" />
@@ -27,21 +17,41 @@ Here are some ideas to get you started:
 
 # Hi, I'm Dongning :smile: Welcome to My GitHub! 
 
-<h2 align="left">About Me</h2>
-<h2 align="left">Techs I Use</h2>
-<h2 align="left">My Github Statistics</h2>
+### About me
+- 🏗️ I’m currently building, deploying and scaling a backend system for ratings and reviews to support the frontend for an e-commerce website: [Project link](https://github.com/daz-sdc/sdc-reviews)
+- 💻 I'm a software engineer with a passion working with data, security and complex systems
+- 🧮 I have a background in Mathematics and I want to use it to improve modern algorithms
+  
+### Skill set
 <p align="left">
-  <a href="https://github.com/mathdsong">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" >
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" >
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" >
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" >
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" >
+  <img src="https://img.shields.io/badge/Amazon_Web_Services-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" >
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" >
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" >
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" >
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" >
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" >
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" >
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" >
+</p>
+
+### Github statistics
+<p align="left">
     <img height="180em" alt="last year" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mathdsong&theme=gotham" />
     <img height="180em" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathdsong&layout=pie&theme=gotham" />
-    <img alt="Strek Stats" height="180" src="https://streak-stats.demolab.com/?user=mathdsong&theme=gotham" />
+<!--     <img height="180em" alt="Strek Stats" src="https://streak-stats.demolab.com/?user=mathdsong&theme=gotham" /> -->
   </a>
 </p>
 
-<h2 align="left">Connect with Me</h2>
+### Connect with me
 <p align="left">
-  <a href="https://www.linkedin.com/in/dongningsong/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:dongningsongswe@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/dongningsong/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:dongningsongswe@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 
