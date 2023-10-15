@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### About me
 - 💻 I'm a software engineer with a passion working with data, security and complex systems
 - 🏗️ I’m currently building, deploying and scaling a backend system for ratings and reviews to support the frontend for an e-commerce website: [Project link](https://github.com/daz-sdc/sdc-reviews)
-- 🧮 Prior to my software engineering journey, I got my M.S. in Mathematics
+- 🧮 Prior to my software engineering journey, I got my Master degree in Mathematics
   
 ### Skill set
 <p align="left">
