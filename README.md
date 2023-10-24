@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 # Hi, I'm Dongning :smile: Welcome to My GitHub! 
 
 ### About me
-- 💻 I'm a software engineer with a passion working with data, security and complex systems
-- 🏗️ I’m currently building, deploying and scaling a backend system for ratings and reviews to support the frontend for an e-commerce website: [Project link](https://github.com/daz-sdc/sdc-reviews)
+- 👩🏻‍💻 I'm a software engineer with a passion working with data, security and complex systems
+- 🏗️ I’m currently building, deploying and scaling a backend system for ratings and reviews to support the frontend for an e-commerce website: [GitHub Repo Link (System Design Project)](https://github.com/daz-sdc/sdc-reviews)
+- 💻 In addition to working on the project, I'm also practicing Data Structures and Algorithms: [GitHub Repo Link (LeetCode Practice)](https://github.com/mathdsong/Dongning_LeetCode_Practice)
 - 🧮 Prior to my software engineering journey, I got my Master degree in Mathematics
   
 ### Skill set
