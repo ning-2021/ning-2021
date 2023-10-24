@@ -21,18 +21,18 @@ Here are some ideas to get you started:
 - 👩🏻‍💻 I'm a software engineer with a passion working with data, security and complex systems
 - 🏗️ I’m currently building, deploying and scaling a backend system for ratings and reviews to support the frontend for an e-commerce website: [GitHub Repo Link (System Design Project)](https://github.com/daz-sdc/sdc-reviews)
 - 💻 In addition to working on the project, I'm also practicing Data Structures and Algorithms: [GitHub Repo Link (LeetCode Practice)](https://github.com/mathdsong/Dongning_LeetCode_Practice)
-- 👥 I also have experience working in groups. Here are two group projects we have worked together on at Hack Reactor: [Github Repo Link (Baby Coin)](https://github.com/babycoin-inc/babycoin) and [Github Repo Link (Comnhi)](https://github.com/rpp2204-fec-lycheejelly/comnhi)
+- 👥 I also have experience working in groups. Here are group projects we have worked together on at Hack Reactor: [Github Repo Link (Baby Coin)](https://github.com/babycoin-inc/babycoin) and [Github Repo Link (Comnhi)](https://github.com/rpp2204-fec-lycheejelly/comnhi)
 - 🧮 Prior to my software engineering journey, I got my Master degree in Mathematics
   
 ### Skill set
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" >
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" >
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" >
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" >
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" >
   <img src="https://img.shields.io/badge/Amazon_Web_Services-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" >
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" >
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" >
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" >
