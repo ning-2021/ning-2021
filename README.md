@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 
 ### About me
 - 👩🏻‍💻 I'm a software engineer with a passion working with data, security and complex systems
-- 🏗️ I’m currently building, deploying and scaling a backend system for ratings and reviews to support the frontend for an e-commerce website: [System Design Project](https://github.com/daz-sdc/sdc-reviews)
-- 💻 In addition to working on the project, I'm also practicing Data Structures and Algorithms: [LeetCode Practice](https://github.com/mathdsong/Dongning_LeetCode_Practice)
+- 📝 I'm currently learning Java: [Java Fundamentals](https://github.com/mathdsong/java_course/tree/master)
+- 🏗️ I’m also building, deploying and scaling a backend system for ratings and reviews to support the frontend for an e-commerce website: [System Design Project](https://github.com/daz-sdc/sdc-reviews)
+- 💻 In addition to working on the project and learning Java, I'm also practicing Data Structures and Algorithms using Java: [LeetCode Practice](https://github.com/mathdsong/Dongning_LeetCode_Practice)
 - 👥 I also have experience working in groups. Here are group projects we have worked together on at Hack Reactor: [Baby Coin](https://github.com/babycoin-inc/babycoin) and [Comnhi](https://github.com/rpp2204-fec-lycheejelly/comnhi)
 - 🧮 Prior to my software engineering journey, I got my Master degree in Mathematics
   
