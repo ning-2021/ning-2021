@@ -45,8 +45,9 @@ Here are some ideas to get you started:
 
 ### Github statistics
 <p align="left">
-    <img width="58%" alt="last year" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mathdsong" />
-    <img width="30%" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathdsong" />
+    <img width="75%" alt="last year" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mathdsong" />
+    <img width="20%" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathdsong&layout=pie" />
+  
 </p>
 
 ### Connect with me
