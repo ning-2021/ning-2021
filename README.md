@@ -17,6 +17,16 @@ Here are some ideas to get you started:
 - 🏗️ I’m building, deploying and scaling a backend system for ratings and reviews to support the frontend for an e-commerce website: [System Design Project](https://github.com/daz-sdc/sdc-reviews)
 - 💻 In addition to working on the project and learning Java, I'm also practicing Data Structures and Algorithms using Java: [DSA Practice](https://github.com/mathdsong/DSA_Practice_Dongning)
 - 👥 I also have experience working in groups. Here are group projects we have worked together on at Hack Reactor: [Baby Coin](https://github.com/babycoin-inc/babycoin) and [Comnhi](https://github.com/rpp2204-fec-lycheejelly/comnhi)
+
+
+### Github statistics
+<p align="left">
+    <img width="50%" alt="last year" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mathdsong" />
+    <img width="20%" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathdsong&layout=pie" />
+</p>
+
+
+
 -->
 
 # Hi, I'm Dongning :smile: Welcome to My GitHub! 
@@ -44,13 +54,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" >
 </p>
 
-### Github statistics
-<p align="left">
-    <img width="50%" alt="last year" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mathdsong" />
-    <img width="36%" alt="streak" src="https://streak-stats.demolab.com/?user=mathdsong&theme=dark" />
-<!--     <img width="20%" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathdsong&layout=pie" /> -->
-  
-</p>
 
 ### Connect with me
 <p align="left">
