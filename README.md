@@ -54,6 +54,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" >
 </p>
 
+### Github statistics
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathdsong&layout=pie)](https://github.com/mathdsong/github-readme-stats)
+
+
 
 ### Connect with me
 <p align="left">
