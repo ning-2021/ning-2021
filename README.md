@@ -55,6 +55,12 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" >
 </p>
 
+### Github statistics
+<p align="left">
+<!--     <img width="50%" alt="last year" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mathdsong" /> -->
+    <img width="20%" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathdsong&layout=pie" />
+</p>
+
 ### Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/dongningsong/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
