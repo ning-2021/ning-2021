@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 
 ### Github statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathdsong&layout=pie)](https://github.com/mathdsong/github-readme-stats)
-
+# Hi, I'm Dongning :smile: Welcome to My GitHub! 
 -->
 
-# Hi, I'm Dongning :smile: Welcome to My GitHub! 
+
 
 ### About me
 - 👩🏻‍💻 I have a passion working with data, security, machine learning and backend development
@@ -49,8 +49,8 @@ Here are some ideas to get you started:
 <!--   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=for-the-badge" > -->
 <!--   <img src="https://img.shields.io/badge/Amazon_Web_Services-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" > -->
 <!--   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" > -->
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" >
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" >
+<!--   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" >
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" > -->
 <!--   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" > -->
 <!--   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" >
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" >
