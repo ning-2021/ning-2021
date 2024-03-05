@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 ### Github statistics
 <p align="left">
 <!--     <img width="50%" alt="last year" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mathdsong" /> -->
-    <img width="20%" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathdsong&layout=pie" />
+    <img width="20%" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathdsong&hide=javascript,css,scss,html" />
 </p>
 
 ### Connect with me
