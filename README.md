@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ### About me
 - 👩🏻‍💻 I have a passion working with data, security, machine learning and backend development
-- 🧮 Prior to my software engineering journey, I got my Master degree in Mathematics
+- 🧮 Prior to my programming journey, I got my M.S. degree in Mathematics
   
 ### Skill set
 <p align="left">
