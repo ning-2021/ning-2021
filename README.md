@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 
 ### About me
-- 👩🏻‍💻 I have a passion working with data, security, machine learning and backend development
+- 👩🏻‍💻 I have a passion working with machine learning and backend development
 - 🧮 Prior to my programming journey, I got my M.S. degree in Mathematics
   
 ### Skill set
