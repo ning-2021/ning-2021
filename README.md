@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 - 💻 In addition to working on the project and learning Java, I'm also practicing Data Structures and Algorithms using Java: [DSA Practice](https://github.com/mathdsong/DSA_Practice_Dongning)
 - 👥 I also have experience working in groups. Here are group projects we have worked together on at Hack Reactor: [Baby Coin](https://github.com/babycoin-inc/babycoin) and [Comnhi](https://github.com/rpp2204-fec-lycheejelly/comnhi)
 
+### About me
+- 👩🏻‍💻 I have a passion working with machine learning and backend development
+- 🧮 Prior to my programming journey, I got my M.S. degree in Mathematics
 
 ### Github statistics
 <p align="left">
@@ -29,12 +32,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathdsong&layout=pie)](https://github.com/mathdsong/github-readme-stats)
 # Hi, I'm Dongning :smile: Welcome to My GitHub! 
 -->
-
-
-
-### About me
-- 👩🏻‍💻 I have a passion working with machine learning and backend development
-- 🧮 Prior to my programming journey, I got my M.S. degree in Mathematics
   
 ### Skill set
 <p align="left">
