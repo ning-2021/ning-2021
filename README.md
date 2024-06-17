@@ -1,21 +1,21 @@
 
 
 <!--
-**mathdsong/mathdsong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ning-2021/ning-2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <p align="center">
-  <a href="https://github.com/mathdsong">
-    <img alt="Strek Stats" height="260" src="https://streak-stats.demolab.com/?user=mathdsong&theme=gotham" />
-    <img alt="Top languages" height="260" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathdsong&layout=pie&theme=gotham" />
-    <img height="360" width="300" alt="last month" src="https://github-readme-activity-graph.vercel.app/graph?username=mathdsong&custom_title=my%20contributions%20in%20the%20last%20month&theme=gotham" />
+  <a href="https://github.com/ning-2021">
+    <img alt="Strek Stats" height="260" src="https://streak-stats.demolab.com/?user=ning-2021&theme=gotham" />
+    <img alt="Top languages" height="260" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ning-2021&layout=pie&theme=gotham" />
+    <img height="360" width="300" alt="last month" src="https://github-readme-activity-graph.vercel.app/graph?username=ning-2021&custom_title=my%20contributions%20in%20the%20last%20month&theme=gotham" />
   </a>
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathdsong&layout=pie)](https://github.com/mathdsong/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mathdsong&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ning-2021&layout=pie)](https://github.com/ning-2021/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ning-2021&theme=dark)](https://git.io/streak-stats)
 
 Here are some ideas to get you started:
-- 🍎 I'm currently learning Java: [Java Practice](https://github.com/mathdsong/Java_Programming_Exercise)
+- 🍎 I'm currently learning Java: [Java Practice](https://github.com/ning-2021/Java_Programming_Exercise)
 - 🏗️ I’m building, deploying and scaling a backend system for ratings and reviews to support the frontend for an e-commerce website: [System Design Project](https://github.com/daz-sdc/sdc-reviews)
-- 💻 In addition to working on the project and learning Java, I'm also practicing Data Structures and Algorithms using Java: [DSA Practice](https://github.com/mathdsong/DSA_Practice_Dongning)
+- 💻 In addition to working on the project and learning Java, I'm also practicing Data Structures and Algorithms using Java: [DSA Practice](https://github.com/ning-2021/DSA_Practice_Dongning)
 - 👥 I also have experience working in groups. Here are group projects we have worked together on at Hack Reactor: [Baby Coin](https://github.com/babycoin-inc/babycoin) and [Comnhi](https://github.com/rpp2204-fec-lycheejelly/comnhi)
 
 ### About me
@@ -24,12 +24,12 @@ Here are some ideas to get you started:
 
 ### Github statistics
 <p align="left">
-    <img width="50%" alt="last year" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mathdsong" />
-    <img width="20%" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathdsong&layout=pie" />
+    <img width="50%" alt="last year" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ning-2021" />
+    <img width="20%" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ning-2021&layout=pie" />
 </p>
 
 ### Github statistics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathdsong&layout=pie)](https://github.com/mathdsong/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ning-2021&layout=pie)](https://github.com/ning-2021/github-readme-stats)
 # Hi, I'm Dongning :smile: Welcome to My GitHub! 
 
   ### Connect with me
@@ -64,8 +64,8 @@ Here are some ideas to get you started:
 
 
 <p align="left">
-<!--     <img width="50%" alt="last year" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mathdsong" /> -->
-    <img width="30%" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathdsong&hide=css,html,jupyter%20notebook" />
+<!--     <img width="50%" alt="last year" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ning-2021" /> -->
+    <img width="30%" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ning-2021&hide=css,html,jupyter%20notebook" />
 </p>
 
 
