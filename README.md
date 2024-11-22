@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 <p align="left">
 <!--     <img width="50%" alt="last year" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ning-2021" /> -->
-    <img width="30%" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ning-2021&hide=css,html,jupyter%20notebook" />
+    <img width="30%" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ning-2021" />
 </p>
 
 
