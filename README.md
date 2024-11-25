@@ -59,15 +59,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" > -->
 </p>
 
-  
-
-
-
-<p align="left">
-<!--     <img width="50%" alt="last year" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ning-2021" /> -->
-    <img width="30%" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ning-2021" />
-</p>
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ning-2021&layout=pie)](https://github.com/ning-2021/github-readme-stats)
 
 
